@@ -1,0 +1,5 @@
+frame takes internally help of os to create component.we use methodss of os i wnt button to be in rectange it will call os.os in return rectangle.every os have own method of implementataion.it may change from platform to platform.windows may call rect but linux may print oval.instead of call gng to os it goes to swing package.in swing pure java.in os it may be in c....advantage of swings.
+
+2.swing is portable coz not use os native metrhods.
+
+3.awt are heavy weight components.use more memory.
